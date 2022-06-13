@@ -1,5 +1,5 @@
 html { 
-  background: url(rahbar.jpg) center center; 
+  background: url(rahbar.jpg) repeat center center; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
