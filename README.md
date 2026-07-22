@@ -36,7 +36,7 @@ Custom software solutions: CRMs, websites, AI agents, and business automation. H
 ### 📊 GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aktyabirov&amp;show_icons=true&amp;theme=tokyonight" />
+  <img height="165" src="./profile/stats.svg" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aktyabirov&amp;theme=tokyonight&amp;hide_border=true" />
 </p>
 
