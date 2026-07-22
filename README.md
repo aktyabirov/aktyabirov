@@ -40,7 +40,7 @@ Custom software solutions: CRMs, websites, AI agents, and business automation. H
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aktyabirov&amp;theme=tokyonight&amp;hide_border=true" />
 </p>
 
-### 🌐 Connect with me
+### 🌐 Connect with me 
 
 <p align="left">
   <a href="https://www.instagram.com/aktyabirov"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" /></a>
